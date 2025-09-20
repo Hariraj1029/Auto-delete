@@ -1,0 +1,94 @@
+{
+    "folders": [
+        {
+            "path": "/home/HariRaj.Gandepalli/Documents/CS Logs/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Documents/ML Logs/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Documents/Nginx Logs/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Documents/BotsServiceRuntime Logs/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Documents/BotsServiceAdmin Logs/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Documents/Error Logs/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Documents/App Logs/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Pictures/",
+            "deleteEntireFolder": false,
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".png", ".jpg"],
+                "createdAgeDays": 5
+            }
+        },
+        {
+            "path": "/home/HariRaj.Gandepalli/Downloads",
+            "deleteEntireFolder": false,
+            "fileNameContains": [""],
+            "recursive": true,
+            "criteria": {
+                "fileExtensions": [".txt", ".log", ".zip"],
+                "createdAgeDays": 10,
+                "modifiedAgeDays": 7
+            }
+        }
+    ]
+}
